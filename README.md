@@ -12,7 +12,7 @@ Two primary datasets used are:<br />
 • AHS Codebook Feature Name Mapping - ![Feature Mapping](AHSDICT_15NOV19_21_17_31_97_S.csv)
 <br />
 
-Pre-requisites:<br />
+# Pre-requisites:
 Python 3.7.0<br />
 Numpy<br />
 Pandas<br />
@@ -21,12 +21,12 @@ Scikit-learn<br />
 Matplotlib<br />
 <br />
 
-Project Implementation:
+# Project Implementation:
 We defined machine learning models using most of the explanatory variables describing every aspect of residential homes and predict the final price range of each home. 
 ![Implementation Plan](plan.png)
 <br />
 
-Algorithms Implemented:
+# Algorithms Implemented:
 In this project, our aim is to implement algorithms which will be able to learn and classify the new observations to correct house price ranges. I decided to use below machine learning algorithms for the same-<br />
 • Random Forest (RandomForestClassifier)<br />
 • K-Nearest Neighbor (KNeighborsClassifier)<br />
