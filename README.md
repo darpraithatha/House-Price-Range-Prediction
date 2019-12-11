@@ -34,3 +34,11 @@ In this project, our aim is to implement algorithms which will be able to learn 
 • Multi-layer Perceptron Classifier (MLPClassifier)<br />
 • AdaBoost Classifier (AdaBoostClassifier)<br />
 • Ensemble Method (Stacking)<br />
+
+# Conclusion:
+A range of different models were explored, from relatively simple to more complex ones, with the goal of best predicting home price ranges but also utilizing different data science skills in the process. For this particular problem, the algorithm with best accuracy value is AdaBoost Classifier with test accuracy score of 0.6129 and therefore it can be considered as a good classifier algorithm for house price range prediction problem. Also, the Decision Tree Classifier is close enough with 0.6060 accuracy score. We have tried tuning each algorithm with different hyper-parameter values and finally kept the best results for each. <br />
+
+# Code Execution Details:
+For our project, we applied six different machine learning algorithms and using a big dataset (around 161 MB). So, one of the input datasets household.csv could not be uploaded in Github due to size restrictions. All other documents except this dataset, including the source code are uploaded in Github. Also, all the relevant documents presentation slides, project report, source code .ipynb file including the household.csv dataset is present in google drive as well.<br />
+Google Drive - https://rb.gy/jdzjde <br />
+Github Repo – https://github.com/darpraithatha/House-Price-Range-Prediction<br />
